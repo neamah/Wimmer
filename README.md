@@ -30,11 +30,11 @@ Enter the information for the corresponding questions that show up.
 This information is written to the master excel database. 
 
 NOTE: I've not included the following columns:
-Tranlation Problem
-Countries Where Term Appears 
-Source Lang
-Partially Coded by Wimmer
-Name of Coder
+1)Tranlation Problem
+2)Countries Where Term Appears 
+3)Source Lang
+4)Partially Coded by Wimmer
+5)Name of Coder
 ==================
 
 
