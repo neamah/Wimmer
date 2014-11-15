@@ -24,7 +24,7 @@ Run from terminal.
  	What ROW are you starting from? <Enter the number of the ROW on the main excel database>.
 	What ROW do you want to stop at? <Enter the number of the ROW on the main excel database>.
 
-After the browser opens, hit <ENTER>.
+After the browser opens, hit ENTER.
 The link from #ROW will open up with the relevant information displaying in terminal.
 Enter the information for the corresponding questions that show up. 
 This information is written to the master excel database. 
