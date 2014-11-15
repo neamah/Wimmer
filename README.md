@@ -31,10 +31,15 @@ This information is written to the master excel database.
 
 NOTE: I've not included the following columns:
 *Tranlation Problem
+
 *Countries Where Term Appears 
+
 *Source Lang
+
 *Partially Coded by Wimmer
+
 *Name of Coder
+
 ==================
 
 
