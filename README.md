@@ -15,6 +15,8 @@ When entering the name of the file in the program, don't enter .xls. JUST the na
 ==================
 How to run: 
 
+Download this repo and save the excel database in the same folder. 
+
 Run from terminal. 
 
  	$ python wimmer.py
