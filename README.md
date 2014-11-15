@@ -10,7 +10,12 @@ NOTE on the excel file you're using
 This script can only take xls files. Since the database we have is xlsx, I just Saved As the same file as .xls 
 This shouldn't change anything in the contents of the file.
 
-When entering the name of the file in the program, don't enter .xls. JUST the name of the file.
+When entering the name of the file in the program, remember to enter .xls. 
+
+e.g:
+
+	Name of the excel file (with .xls): googleterms.xls
+
 
 ==================
 How to run: 
